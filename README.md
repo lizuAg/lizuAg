@@ -38,7 +38,19 @@ Stacks 📚
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+ 
+  
+  
+Projects 💁‍♀️
+----------------
+- [```Deli```](https://github.com/TeamDeli/Deli-Front)
+- [```SantaIsSanta```](https://github.com/SOLUX-2019/SantaIsSanta)  
+ 
+  
+  
+contact me 📩
+----------------
+- ```wndms058@gmail.com```
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=90&customColorList=0,2,2)
