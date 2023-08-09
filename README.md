@@ -20,7 +20,7 @@ Hi, I'm Jueun 👽
 - Sookmyung Women's University, Dept. Computer Science (2019- )
 - Club member of **APPS** (2019-2021)
 - Club member of **SOLUX** (2022)  
-- I'm studying ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) now ! 😎  
+- I'm studying ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) now ! 😎  
  
   
   
@@ -33,7 +33,7 @@ Stacks 📚
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -44,8 +44,9 @@ Stacks 📚
   
 Projects 💁‍♀️
 ----------------
+- [```Saera```](https://github.com/YeonJeans/Saera-Flutter)
 - [```Deli```](https://github.com/TeamDeli/Deli-Front)
-- [```SantaIsSanta```](https://github.com/SOLUX-2019/SantaIsSanta)  
+- [```SantaIsSanta```](https://github.com/SOLUX-2019/SantaIsSanta)
  
   
   
