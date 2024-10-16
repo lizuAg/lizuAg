@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%World!👋&fontSize=50&customColorList=0,2,2)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%World!👋&fontSize=50&customColorList=0,2,2)-->
 
 Hi, I'm Jueun 👽
 ----------------
-- Sookmyung Women's University, Dept. Computer Science (2019- )
+- Sookmyung Women's University, Dept. Computer Science (2019 - 2024)
 - Club member of **APPS** (2019-2021)
-- Club member of **SOLUX** (2022)  
+- Club member of **SOLUX** (2022)
+- Core Member of **GDSC SOOKMYUNG** (2023)
 - I'm studying ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) now ! 😎  
  
   
@@ -44,6 +45,7 @@ Stacks 📚
   
 Projects 💁‍♀️
 ----------------
+- [```MissingYou```](https://github.com/IRIS-2024)
 - [```Saera```](https://github.com/YeonJeans/Saera-Flutter)
 - [```Deli```](https://github.com/TeamDeli/Deli-Front)
 - [```SantaIsSanta```](https://github.com/SOLUX-2019/SantaIsSanta)
@@ -54,4 +56,13 @@ contact me 📩
 ----------------
 - ```wndms058@gmail.com```
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=90&customColorList=0,2,2)
+</br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wndms058)](https://solved.ac/wndms058})
+
+</br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/lizuAg"/>
+</a>
+
+<!--![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=90&customColorList=0,2,2)-->
