@@ -58,11 +58,13 @@ contact me 📩
 
 </br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wndms058)](https://solved.ac/wndms058})
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/wndms058" width="600" height="300"/></a>
 </br>
+<!--
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wndms058)](https://solved.ac/wndms058})
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/lizuAg"/>
-</a>
+</a> --!>
 
 <!--![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=90&customColorList=0,2,2)-->
